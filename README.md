@@ -1,4 +1,8 @@
-# GoGoMod 1.9.16
+# GoGoMod 1.9.16 (Discontinued)
+
+## Update (16.06.2021)
+
+With the release of ZoneMod 2.0, this mod is no longer necessary. There will be no more updates to this mod. Special thanks to Derpduck for all the changes done. It was great fun playing this mod and we'll continue to enjoy the changes in ZoneMod 2.0.
 
 ## About
 
